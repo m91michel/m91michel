@@ -10,5 +10,6 @@
 
 ![Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m91michel&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=m91michel&show_icons=true&count_private=true&hide=contribs)
+[![GitHub Streak](https://streak-stats.demolab.com?user=m91michel&theme=dark)](https://git.io/streak-stats)
 <!--
 **m91michel/m91michel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
