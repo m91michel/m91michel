@@ -6,7 +6,7 @@
 - 🔭 I’m employed at [Klarx](https://klarx.de/)
 - 🌱 I’m currently learning more about **idea validation** and **getting customer feedback**
 - 💬 Ask me about **React**, **TypeScrypt**, **NextJS**, **GitHub Action**, **Rails**, **Vercel**! 
-- 📫 How to reach me: [Twitter](https://twitter.com/m91michel), [LinkedIn]([#linkedin](https://www.linkedin.com/in/michel-x-mathias/))
+- 📫 How to reach me: [Twitter](https://twitter.com/m91michel), [LinkedIn](https://www.linkedin.com/in/michel-x-mathias/)
 
 ![Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m91michel&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=m91michel&show_icons=true&count_private=true&hide=contribs)
