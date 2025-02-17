@@ -4,7 +4,7 @@
 
 - 🔭 I’m working on side projects like...
   - [Rewritebar](https://rewritebar.com) - A macOS menubar app where you can improve your writing
-  - [Café zum Arbeiten](https://cafezumarbeiten.de) - Directory with the best cafes for working
+  - [AWifi.place](https://awifi.place) - Directory with the best cafes for working ([German version](https://cafezumarbeiten.de))
   - [Autonomous Agents Hub](https://https://autonomousagentshub.com) - Directory with autonomous AI Agents
   - [VoiceBuddy AI](https://voicebuddyai.com) - Let a voice agent handle your incoming calls
   - [clipnuggets.com](https://clipnuggets.com/) - Extract key learning from YouTube Videos
